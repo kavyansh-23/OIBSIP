@@ -5,7 +5,7 @@ env/
 
 # Ignore secrets & keys
 .env
-voice_assistant/.env
+Python-Task1-VoiceAssistant/.env
 *.env
 
 # Ignore temporary audio & cache
