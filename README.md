@@ -12,8 +12,19 @@ An AI-powered voice assistant built with Python featuring:
 - **Gemini AI Integration**: Intelligent general knowledge and conversational responses.
 - **System Control & Automation**: Hardware status monitoring, web searching, weather updates, and reminder scheduling.
 
-📁 **Folder Structure**:
-- [`voice_assistant.py`](./Python-Task1-VoiceAssistant/voice_assistant.py): Main application code.
-- [`config.json`](./Python-Task1-VoiceAssistant/config.json): Configuration file.
-- [`requirements.txt`](./Python-Task1-VoiceAssistant/requirements.txt): Dependencies.
-- [`proofs/`](./Python-Task1-VoiceAssistant/proofs/): Screenshots and execution proofs.
+---
+
+### 2. 📊 [BMI Calculator & Tracker](./Python-Task2-BMICalculator)
+An advanced GUI application built with `tkinter`, `sqlite3`, and `matplotlib`:
+- **Interactive GUI**: Color-coded feedback according to standard health categories.
+- **Persistent Multi-User DB**: SQLite database for storing individual user records.
+- **Visual Trend Analytics**: Historical line chart displaying user BMI changes over time.
+
+---
+
+### 3. 🔒 [Password Generator](./Python-Task3-PasswordGenerator)
+A cryptographically secure GUI password generator built with `tkinter`, `secrets`, and `pyperclip`:
+- **CS-PRNG Security**: Powered by Python's `secrets` module.
+- **Custom Controls**: Length selection slider/spinbox and character type filters (including ambiguous character exclusion).
+- **Dynamic Strength Indicator**: Live visual bar evaluating length and entropy.
+- **In-Memory History**: Session history tracking the last 5 generated passwords securely.
