@@ -1,0 +1,9 @@
+{
+  "assistant_name": "Jarvis",
+  "city": "Vadodara",
+  "custom_commands": {
+    "open youtube": "https://www.youtube.com",
+    "open github": "https://www.github.com",
+    "open google": "https://www.google.com"
+  }
+}

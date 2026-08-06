@@ -1,0 +1,14 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Ignore secrets & keys
+.env
+voice_assistant/.env
+*.env
+
+# Ignore temporary audio & cache
+*.mp3
+__pycache__/
+.DS_Store

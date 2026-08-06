@@ -1,0 +1,21 @@
+# Virtual Environments
+venv/
+win_venv/
+ENV/
+
+# Environment Variables & Secrets
+.env
+
+# Temporary Speech Files
+temp_speech.mp3
+
+# Python Cache & Artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# OS Specific
+.DS_Store
+Thumbs.db
